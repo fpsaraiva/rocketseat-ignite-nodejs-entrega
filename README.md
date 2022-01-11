@@ -18,4 +18,5 @@ POST /client/authenticate - autentica cliente
 POST /deliveryman - criação de novo entregador  
 POST /deliveryman/authenticate - autentica entregador  
 POST /delivery - criação de nova entrega  
-GET /delivery/available - lista entregas disponíveis
+GET /delivery/available - lista entregas disponíveis  
+PUT /delivery/updateDeliveryman/:id - define entregador de uma entrega
