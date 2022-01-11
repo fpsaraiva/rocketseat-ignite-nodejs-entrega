@@ -10,3 +10,7 @@ Projeto de um backend de entregas (delivery), realizado na trilha Node do Ignite
 * Prisma
 * Bcrypt
 * JWT
+
+### Endpoints
+
+POST /client - criação de um novo cliente
