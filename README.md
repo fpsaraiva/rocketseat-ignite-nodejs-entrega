@@ -14,3 +14,4 @@ Projeto de um backend de entregas (delivery), realizado na trilha Node do Ignite
 ### Endpoints
 
 POST /client - criação de um novo cliente
+POST /authenticate - autentica usuário
