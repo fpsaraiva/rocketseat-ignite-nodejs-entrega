@@ -18,7 +18,8 @@ POST /client/authenticate - autentica cliente
 GET /client/deliveries - lista entregas do cliente
 
 POST /deliveryman - criação de novo entregador  
-POST /deliveryman/authenticate - autentica entregador  
+POST /deliveryman/authenticate - autentica entregador 
+GET /deliveryman/deliveries - lista entregas do entregador 
 
 POST /delivery - criação de nova entrega  
 GET /delivery/available - lista entregas disponíveis  
